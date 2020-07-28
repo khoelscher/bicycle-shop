@@ -9,17 +9,24 @@ html {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+
 }
 
+/* main{
+    display: flex;
+    flex-wrap: wrap;
+} */
+
 img {
-    height: 200px;
+height: auto;  
+  width: 350px;
 }
 
 div {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-}
+    justify-content: center;   
+}   
 
 .listX {
     display: flex;
